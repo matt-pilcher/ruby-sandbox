@@ -1,0 +1,1 @@
+Setting up a framework that emulates the basic functionality of the Rails framework.
